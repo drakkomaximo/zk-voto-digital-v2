@@ -33,7 +33,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Connect</h3>
             <div className="flex space-x-4">
-              <a href="https://github.com/kuronosec/zk-voto-digital" className="hover:text-purple-400 transition-colors">
+              <a href="https://github.com/kuronosec/zk-voto-digital" target='_blank' className="hover:text-purple-400 transition-colors">
                 <Github className="w-6 h-6" />
               </a>
               {/* <a href="https://twitter.com/your-handle" className="hover:text-purple-400 transition-colors">
